@@ -1,5 +1,6 @@
 *
 !*/
 !*.asc
+!*.gpg
 !.gitignore
 !README.md
